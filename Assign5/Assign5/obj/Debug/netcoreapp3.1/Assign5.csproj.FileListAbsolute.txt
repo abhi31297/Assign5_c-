@@ -1,0 +1,11 @@
+C:\Users\abhis\source\repos\Assign5\Assign5\bin\Debug\netcoreapp3.1\Assign5.exe
+C:\Users\abhis\source\repos\Assign5\Assign5\bin\Debug\netcoreapp3.1\Assign5.deps.json
+C:\Users\abhis\source\repos\Assign5\Assign5\bin\Debug\netcoreapp3.1\Assign5.runtimeconfig.json
+C:\Users\abhis\source\repos\Assign5\Assign5\bin\Debug\netcoreapp3.1\Assign5.runtimeconfig.dev.json
+C:\Users\abhis\source\repos\Assign5\Assign5\bin\Debug\netcoreapp3.1\Assign5.dll
+C:\Users\abhis\source\repos\Assign5\Assign5\bin\Debug\netcoreapp3.1\Assign5.pdb
+C:\Users\abhis\source\repos\Assign5\Assign5\obj\Debug\netcoreapp3.1\Assign5.csprojAssemblyReference.cache
+C:\Users\abhis\source\repos\Assign5\Assign5\obj\Debug\netcoreapp3.1\Assign5.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\Assign5\Assign5\obj\Debug\netcoreapp3.1\Assign5.AssemblyInfo.cs
+C:\Users\abhis\source\repos\Assign5\Assign5\obj\Debug\netcoreapp3.1\Assign5.dll
+C:\Users\abhis\source\repos\Assign5\Assign5\obj\Debug\netcoreapp3.1\Assign5.pdb
